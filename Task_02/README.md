@@ -1,3 +1,4 @@
+# AIDD 30-Day Challenge - Task 02
 # Part A - Theory 
 ### **1. Nine Pillars Understanding**
 
@@ -40,11 +41,11 @@ Using any AI CLI tool, generate a 1-paragraph specification for an email validat
 
 ### CLI Prompt
 
-![CLI Prompt]()
+![CLI Prompt](https://github.com/AyeshaQadir7/AIDD_30_Days_Challenge/blob/32547dbcb260b0acbdb1b9575c41197bce659fb0/Task_02/prompt.PNG)
 
 ### CLI Output
 
-![CLI Output]()
+![CLI Output](https://github.com/AyeshaQadir7/AIDD_30_Days_Challenge/blob/32547dbcb260b0acbdb1b9575c41197bce659fb0/Task_02/spec.PNG)
 
 # Part C - MCQs
 
