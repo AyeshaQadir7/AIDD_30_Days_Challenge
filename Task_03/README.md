@@ -22,4 +22,4 @@ Gemini 3.0 has stonger multi modal capabilities meaning it has much stronger abi
 * Using the /model command in Gemini CLI, update the Gemini model to the latest version
 (3.0).
 
-![Gemini CLI Update]()
+![Gemini CLI Update](https://github.com/AyeshaQadir7/AIDD_30_Days_Challenge/blob/15ef0bb51eb0deee9ce932764c913381fa545468/Task_03/gemini%203.0%20update.PNG)
