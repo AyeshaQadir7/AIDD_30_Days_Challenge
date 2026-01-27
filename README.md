@@ -1,13 +1,13 @@
 # AI-Driven Development (AIDD) 30-Day Challenge
 
-This is a 30-day journey where I'll be completing 15 tasks focused on leveraging AI tools and techniques in software development.
+This is a 30-day journey where I'll be completing 10 tasks focused on leveraging AI tools and techniques in software development.
 
 ## Challenge Timeline
 
 - **Start Date:** November 15, 2025
 - **Duration:** 30 Days
 - **Task Frequency:** Every 2 days
-- **Total Tasks:** 15
+- **Total Tasks:** 10
 
 ## Learning Goals
 
